@@ -19,4 +19,5 @@
 
 
 
-![USECASE340Real](https://github.com/salomonprz/CSC_340_FinalProject/assets/122686318/968b2375-f79e-4802-bf18-c47cee3c6bfb)
+
+![Login (6)](https://github.com/salomonprz/CSC_340_FinalProject/assets/122686318/90622abb-1c1f-4e14-ae48-1dd5f44398c1)
