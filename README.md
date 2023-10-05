@@ -20,4 +20,5 @@
 
 
 
-![Login (6)](https://github.com/salomonprz/CSC_340_FinalProject/assets/122686318/90622abb-1c1f-4e14-ae48-1dd5f44398c1)
+
+![Login (6)](https://github.com/salomonprz/CSC_340_FinalProject/assets/122686318/a6869964-9697-4da3-b99b-c3f23e18f96b)
